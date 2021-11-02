@@ -1,0 +1,12 @@
+# Required libraries
+numpy==1.19.5
+pandas==1.2.0
+xarray==0.16.2
+netCDF4==1.5.5.1
+scipy==1.6.0
+geographiclib==1.50
+
+# Libraries for plotting
+matplotlib==3.3.3
+cartopy==0.18.0
+colorcet==2.0.1

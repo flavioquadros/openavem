@@ -1,0 +1,17 @@
+*.png
+*.svg
+*.lprof
+*.prof
+*.log
+*.out
+*desktop.ini
+*__pycache__*
+*.xls
+*.xlsx
+.spyproject
+etc/
+scripts/
+temp/
+temp.*
+tools/
+transfer/

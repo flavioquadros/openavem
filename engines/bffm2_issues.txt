@@ -1,0 +1,564 @@
+BFFM2 of "1AS001": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "1AS001": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "1AS002": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "1AS002": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "6AL006": (HC) issue #6: some EIs equal to 0
+BFFM2 of "6AL006": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "6AL007": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "6AL009": (CO) issue #6: some EIs equal to 0
+BFFM2 of "6AL009": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "6AL009": (HC) issue #6: some EIs equal to 0
+BFFM2 of "6AL009": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "6AL010": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "6AL012": (CO) issue #6: some EIs equal to 0
+BFFM2 of "6AL012": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "6AL012": (HC) issue #6: some EIs equal to 0
+BFFM2 of "6AL012": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "6AL013": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "6AL015": (CO) issue #6: some EIs equal to 0
+BFFM2 of "6AL015": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "6AL015": (HC) issue #6: some EIs equal to 0
+BFFM2 of "6AL015": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "6AL016": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "10AL026": (HC) issue #6: some EIs equal to 0
+BFFM2 of "6AL018": (CO) issue #6: some EIs equal to 0
+BFFM2 of "6AL018": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "6AL018": (HC) issue #6: some EIs equal to 0
+BFFM2 of "6AL018": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "6AL019": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "6AL022": (CO) issue #6: some EIs equal to 0
+BFFM2 of "6AL022": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "6AL022": (HC) issue #6: some EIs equal to 0
+BFFM2 of "6AL022": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "6AL024": (CO) issue #6: some EIs equal to 0
+BFFM2 of "6AL024": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "6AL024": (HC) issue #6: some EIs equal to 0
+BFFM2 of "6AL024": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "13AL027": (CO) issue #6: some EIs equal to 0
+BFFM2 of "13AL027": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "13AL027": (HC) issue #6: some EIs equal to 0
+BFFM2 of "13AL027": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "1AA001": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "1AA005": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "13AA006": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "3BR001": (HC) issue #6: some EIs equal to 0
+BFFM2 of "3BR001": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "4BR002": (HC) issue #6: some EIs equal to 0
+BFFM2 of "4BR002": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "4BR005": (HC) issue #2: intersection at EI higher than EI_App
+BFFM2 of "4BR003": (HC) issue #6: some EIs equal to 0
+BFFM2 of "4BR003": (HC) issue #2: intersection at EI higher than EI_App
+BFFM2 of "4BR006": (HC) issue #2: intersection at EI higher than EI_App
+BFFM2 of "4BR004": (HC) issue #6: some EIs equal to 0
+BFFM2 of "4BR007": (HC) issue #2: intersection at EI higher than EI_App
+BFFM2 of "11BR011": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "11BR011": (HC) issue #6: some EIs equal to 0
+BFFM2 of "20BR012": (HC) issue #6: some EIs equal to 0
+BFFM2 of "2CM016": (CO) issue #3: EI_App > EI_Idle
+BFFM2 of "2CM016": (CO) issue #3: EI_App > EI_Idle
+BFFM2 of "3CM020": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "3CM020": (CO) issue #3: EI_App > EI_Idle
+BFFM2 of "2CM017": (CO) issue #3: EI_App > EI_Idle
+BFFM2 of "2CM017": (CO) issue #3: EI_App > EI_Idle
+BFFM2 of "4CM037": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "4CM037": (CO) issue #3: EI_App > EI_Idle
+BFFM2 of "4CM038": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "4CM038": (CO) issue #3: EI_App > EI_Idle
+BFFM2 of "2CM018": (CO) issue #3: EI_App > EI_Idle
+BFFM2 of "2CM018": (CO) issue #3: EI_App > EI_Idle
+BFFM2 of "3CM021": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "3CM021": (CO) issue #3: EI_App > EI_Idle
+BFFM2 of "8CM055": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "8CM056": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "3CM022": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "8CM057": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "8CM058": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "8CM059": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "7CM048": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "7CM050": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "8CM060": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "7CM045": (HC) issue #6: some EIs equal to 0
+BFFM2 of "7CM046": (HC) issue #6: some EIs equal to 0
+BFFM2 of "7CM047": (HC) issue #6: some EIs equal to 0
+BFFM2 of "8CM061": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "8CM062": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "11CM067": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "4CM040": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "4CM040": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "8CM063": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "11CM068": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "11CM069": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "4CM041": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "4CM041": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "8CM064": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "11CM070": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "11CM071": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "4CM042": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "4CM042": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "8CM065": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "11CM072": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "11CM073": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "11CM074": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "11CM076": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "11CM075": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "4CM043": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "4CM043": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "8CM066": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "11CM080": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "11CM077": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "11CM078": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "11CM082": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "11CM079": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "11CM081": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "17CM082": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "20CM088": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "1GE034": (CO) issue #6: some EIs equal to 0
+BFFM2 of "1GE034": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "1GE035": (CO) issue #6: some EIs equal to 0
+BFFM2 of "1GE035": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "5GE084": (CO) issue #6: some EIs equal to 0
+BFFM2 of "5GE084": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "5GE083": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "6GE096": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "6GE096": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "6GE092": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "6GE092": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "8GE110": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "8GE110": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "8GE107": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "8GE107": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "8GE104": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "8GE104": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "8GE103": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "8GE103": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "8GE112": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "8GE112": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "6GE093": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "6GE093": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "8GE113": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "8GE113": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "8GE111": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "8GE111": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "6GE094": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "6GE094": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "8GE108": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "8GE108": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "6GE095": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "6GE095": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "8GE105": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "8GE105": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "8GE102": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "8GE102": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "8GE109": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "8GE109": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "8GE106": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "8GE106": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "3GE067": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "1GE005": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "3GE068": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "3GE069": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "3GE070": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "3GE073": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "3GE074": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "3GE078": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "3GE072": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "3GE071": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "3GE075": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "3GE076": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "3GE077": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "3GE079": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "1GE001": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "1GE003": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "2GE036": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "2GE037": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "2GE038": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "2GE039": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "3GE056": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "2GE040": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "2GE041": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "2GE045": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "2GE042": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "2GE046": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "2GE043": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "2GE047": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "3GE057": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "2GE044": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "2GE048": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "2GE055": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "8GE101": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "3GE058": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "2GE049": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "2GE050": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "2GE051": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "4GE081": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "7GE097": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "2GE052": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "2GE052": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "3GE059": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "3GE059": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "2GE053": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "2GE053": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "3GE060": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "3GE060": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "3GE061": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "3GE061": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "11GE136": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "11GE137": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "11GE138": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "11GE139": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "12GE149": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "12GE150": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "12GE151": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "12GE152": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "12GE153": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "12GE154": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "12GE155": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "12GE156": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "13GE165": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "13GE164": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "13GE163": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "13GE162": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "13GE161": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "13GE160": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "13GE159": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "16GE168": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "16GE169": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "13GE157": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "13GE158": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "17GE172": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "17GE173": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "17GE174": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "17GE175": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "17GE176": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "17GE177": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "17GE178": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "17GE179": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "17GE180": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "17GE181": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "11HN004": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "10IA013": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "10IA014": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "10IA015": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "10IA016": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "10IA017": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "14IA018": (CO) issue #3: EI_App > EI_Idle
+BFFM2 of "1KK002": (NOx) issue #7: all EIs missing
+BFFM2 of "1KK004": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "11PJ001": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "11PJ002": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "1PW035": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "1PW035": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "1PW036": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "1PW036": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "1PW037": (CO) issue #6: some EIs equal to 0
+BFFM2 of "1PW037": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "1PW037": (HC) issue #6: some EIs equal to 0
+BFFM2 of "1PW037": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "1PW038": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "1PW038": (HC) issue #6: some EIs equal to 0
+BFFM2 of "1PW038": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "1PW001": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "1PW002": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "1PW003": (NOx) issue #7: all EIs missing
+BFFM2 of "1PW003": (CO) issue #7: all EIs missing
+BFFM2 of "1PW003": (HC) issue #7: all EIs missing
+BFFM2 of "1PW008": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "1PW009": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "1PW012": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "1PW016": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "1PW017": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "1PW017": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "4PW068": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "4PW068": (HC) issue #7: all EIs missing
+BFFM2 of "1PW018": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "1PW018": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "4PW069": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "4PW069": (HC) issue #7: all EIs missing
+BFFM2 of "4PW070": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "4PW070": (HC) issue #7: all EIs missing
+BFFM2 of "1PW019": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "1PW019": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "4PW071": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "4PW071": (HC) issue #7: all EIs missing
+BFFM2 of "1PW004": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "1PW006": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "1PW031": (CO) issue #6: some EIs equal to 0
+BFFM2 of "1PW031": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "8PW088": (CO) issue #6: some EIs equal to 0
+BFFM2 of "8PW088": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "1PW032": (HC) issue #6: some EIs equal to 0
+BFFM2 of "1PW032": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "1PW020": (CO) issue #6: some EIs equal to 0
+BFFM2 of "1PW020": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "8PW086": (CO) issue #6: some EIs equal to 0
+BFFM2 of "8PW086": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "1PW021": (CO) issue #6: some EIs equal to 0
+BFFM2 of "1PW021": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "8PW087": (CO) issue #6: some EIs equal to 0
+BFFM2 of "8PW087": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "1PW023": (HC) issue #6: some EIs equal to 0
+BFFM2 of "1PW023": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "1PW024": (HC) issue #6: some EIs equal to 0
+BFFM2 of "1PW024": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "1PW026": (HC) issue #2: intersection at EI higher than EI_App
+BFFM2 of "1PW027": (HC) issue #2: intersection at EI higher than EI_App
+BFFM2 of "16PW115": (CO) issue #6: some EIs equal to 0
+BFFM2 of "16PW115": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "16PW115": (HC) issue #6: some EIs equal to 0
+BFFM2 of "16PW115": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "16PW116": (CO) issue #6: some EIs equal to 0
+BFFM2 of "16PW116": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "16PW116": (HC) issue #6: some EIs equal to 0
+BFFM2 of "16PW116": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "19PW127": (CO) issue #6: some EIs equal to 0
+BFFM2 of "19PW127": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "19PW127": (HC) issue #6: some EIs equal to 0
+BFFM2 of "19PW127": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "19PW128": (CO) issue #6: some EIs equal to 0
+BFFM2 of "19PW128": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "19PW128": (HC) issue #6: some EIs equal to 0
+BFFM2 of "19PW128": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "15PW104": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "15PW105": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "15PW106": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "15PW107": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "15PW107": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "15PW108": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "15PW108": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "18PW117": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "18PW117": (HC) issue #2: intersection at EI higher than EI_App
+BFFM2 of "18PW118": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "18PW118": (HC) issue #2: intersection at EI higher than EI_App
+BFFM2 of "18PW119": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "18PW119": (HC) issue #2: intersection at EI higher than EI_App
+BFFM2 of "18PW120": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "18PW120": (HC) issue #2: intersection at EI higher than EI_App
+BFFM2 of "18PW121": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "18PW121": (HC) issue #2: intersection at EI higher than EI_App
+BFFM2 of "18PW122": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "18PW122": (HC) issue #2: intersection at EI higher than EI_App
+BFFM2 of "18PW123": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "18PW123": (HC) issue #2: intersection at EI higher than EI_App
+BFFM2 of "18PW124": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "18PW124": (HC) issue #2: intersection at EI higher than EI_App
+BFFM2 of "18PW125": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "18PW125": (HC) issue #2: intersection at EI higher than EI_App
+BFFM2 of "18PW126": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "18PW126": (HC) issue #2: intersection at EI higher than EI_App
+BFFM2 of "21PW139": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "21PW139": (CO) issue #3: EI_App > EI_Idle
+BFFM2 of "21PW140": (HC) issue #2: intersection at EI higher than EI_App
+BFFM2 of "16PW110": (CO) issue #6: some EIs equal to 0
+BFFM2 of "16PW110": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "16PW110": (CO) issue #3: EI_App > EI_Idle
+BFFM2 of "16PW111": (CO) issue #6: some EIs equal to 0
+BFFM2 of "16PW111": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "16PW111": (CO) issue #3: EI_App > EI_Idle
+BFFM2 of "16PW112": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "16PW112": (CO) issue #3: EI_App > EI_Idle
+BFFM2 of "16PW113": (CO) issue #6: some EIs equal to 0
+BFFM2 of "16PW113": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "20PW129": (CO) issue #6: some EIs equal to 0
+BFFM2 of "20PW129": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "20PW129": (HC) issue #6: some EIs equal to 0
+BFFM2 of "20PW129": (CO) issue #3: EI_App > EI_Idle
+BFFM2 of "20PW130": (CO) issue #6: some EIs equal to 0
+BFFM2 of "20PW130": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "20PW130": (HC) issue #6: some EIs equal to 0
+BFFM2 of "20PW130": (CO) issue #3: EI_App > EI_Idle
+BFFM2 of "20PW131": (CO) issue #6: some EIs equal to 0
+BFFM2 of "20PW131": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "20PW131": (HC) issue #6: some EIs equal to 0
+BFFM2 of "20PW131": (CO) issue #3: EI_App > EI_Idle
+BFFM2 of "20PW132": (CO) issue #6: some EIs equal to 0
+BFFM2 of "20PW132": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "20PW132": (HC) issue #6: some EIs equal to 0
+BFFM2 of "20PW132": (CO) issue #3: EI_App > EI_Idle
+BFFM2 of "20PW133": (CO) issue #6: some EIs equal to 0
+BFFM2 of "20PW133": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "20PW133": (HC) issue #6: some EIs equal to 0
+BFFM2 of "20PW133": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "20PW134": (CO) issue #6: some EIs equal to 0
+BFFM2 of "20PW134": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "20PW134": (HC) issue #6: some EIs equal to 0
+BFFM2 of "20PW134": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "20PW135": (CO) issue #6: some EIs equal to 0
+BFFM2 of "20PW135": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "20PW135": (HC) issue #6: some EIs equal to 0
+BFFM2 of "20PW135": (CO) issue #3: EI_App > EI_Idle
+BFFM2 of "20PW136": (CO) issue #6: some EIs equal to 0
+BFFM2 of "20PW136": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "20PW136": (HC) issue #6: some EIs equal to 0
+BFFM2 of "20PW136": (CO) issue #3: EI_App > EI_Idle
+BFFM2 of "20PW137": (CO) issue #6: some EIs equal to 0
+BFFM2 of "20PW137": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "20PW137": (HC) issue #6: some EIs equal to 0
+BFFM2 of "20PW137": (CO) issue #3: EI_App > EI_Idle
+BFFM2 of "20PW138": (CO) issue #6: some EIs equal to 0
+BFFM2 of "20PW138": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "20PW138": (HC) issue #6: some EIs equal to 0
+BFFM2 of "20PW138": (CO) issue #3: EI_App > EI_Idle
+BFFM2 of "7PW077": (HC) issue #6: some EIs equal to 0
+BFFM2 of "7PW078": (HC) issue #6: some EIs equal to 0
+BFFM2 of "16PW114": (HC) issue #6: some EIs equal to 0
+BFFM2 of "11PW100": (HC) issue #6: some EIs equal to 0
+BFFM2 of "8PW090": (HC) issue #6: some EIs equal to 0
+BFFM2 of "8PW091": (HC) issue #6: some EIs equal to 0
+BFFM2 of "15PW109": (CO) issue #6: some EIs equal to 0
+BFFM2 of "15PW109": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "15PW109": (HC) issue #6: some EIs equal to 0
+BFFM2 of "7PW079": (HC) issue #6: some EIs equal to 0
+BFFM2 of "7PW079": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "14PW103": (HC) issue #6: some EIs equal to 0
+BFFM2 of "5PW076": (HC) issue #7: all EIs missing
+BFFM2 of "7PW081": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "7PW081": (HC) issue #6: some EIs equal to 0
+BFFM2 of "7PW081": (HC) issue #2: intersection at EI higher than EI_App
+BFFM2 of "9PW092": (HC) issue #6: some EIs equal to 0
+BFFM2 of "9PW092": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "5PW075": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "5PW075": (HC) issue #6: some EIs equal to 0
+BFFM2 of "5PW075": (HC) issue #2: intersection at EI higher than EI_App
+BFFM2 of "9PW093": (HC) issue #6: some EIs equal to 0
+BFFM2 of "9PW093": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "7PW082": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "7PW082": (HC) issue #6: some EIs equal to 0
+BFFM2 of "7PW082": (HC) issue #2: intersection at EI higher than EI_App
+BFFM2 of "9PW094": (HC) issue #6: some EIs equal to 0
+BFFM2 of "9PW094": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "9PW095": (HC) issue #6: some EIs equal to 0
+BFFM2 of "9PW095": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "5PW074": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "5PW074": (HC) issue #6: some EIs equal to 0
+BFFM2 of "7PW083": (HC) issue #6: some EIs equal to 0
+BFFM2 of "7PW083": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "7PW084": (HC) issue #6: some EIs equal to 0
+BFFM2 of "7PW084": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "1RR001": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "1RR002": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "1RR003": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "1RR003": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "1RR004": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "1RR006": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "1RR006": (HC) issue #6: some EIs equal to 0
+BFFM2 of "1RR006": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "1RR007": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "1RR007": (HC) issue #6: some EIs equal to 0
+BFFM2 of "1RR007": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "1RR009": (HC) issue #2: intersection at EI higher than EI_App
+BFFM2 of "4RR036": (HC) issue #6: some EIs equal to 0
+BFFM2 of "4RR036": (HC) issue #2: intersection at EI higher than EI_App
+BFFM2 of "4RR037": (HC) issue #6: some EIs equal to 0
+BFFM2 of "4RR037": (HC) issue #2: intersection at EI higher than EI_App
+BFFM2 of "3RR028": (HC) issue #6: some EIs equal to 0
+BFFM2 of "3RR028": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "5RR038": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "5RR038": (HC) issue #6: some EIs equal to 0
+BFFM2 of "5RR038": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "3RR034": (HC) issue #6: some EIs equal to 0
+BFFM2 of "3RR034": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "5RR039": (HC) issue #6: some EIs equal to 0
+BFFM2 of "5RR039": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "1RR015": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "8RR043": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "1RR017": (CO) issue #6: some EIs equal to 0
+BFFM2 of "1RR017": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "6RR042": (HC) issue #6: some EIs equal to 0
+BFFM2 of "6RR042": (HC) issue #2: intersection at EI higher than EI_App
+BFFM2 of "11RR048": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "3RR031": (HC) issue #2: intersection at EI higher than EI_App
+BFFM2 of "3RR032": (HC) issue #2: intersection at EI higher than EI_App
+BFFM2 of "6RR041": (HC) issue #6: some EIs equal to 0
+BFFM2 of "2RR022": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "3RR029": (HC) issue #6: some EIs equal to 0
+BFFM2 of "2RR023": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "3RR030": (HC) issue #6: some EIs equal to 0
+BFFM2 of "3RR030": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "14RR070": (HC) issue #6: some EIs equal to 0
+BFFM2 of "14RR070": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "2RR024": (HC) issue #6: some EIs equal to 0
+BFFM2 of "2RR024": (HC) issue #2: intersection at EI higher than EI_App
+BFFM2 of "2RR025": (HC) issue #6: some EIs equal to 0
+BFFM2 of "2RR025": (HC) issue #2: intersection at EI higher than EI_App
+BFFM2 of "2RR026": (HC) issue #6: some EIs equal to 0
+BFFM2 of "2RR027": (HC) issue #6: some EIs equal to 0
+BFFM2 of "2RR027": (HC) issue #2: intersection at EI higher than EI_App
+BFFM2 of "5RR040": (HC) issue #6: some EIs equal to 0
+BFFM2 of "5RR040": (HC) issue #2: intersection at EI higher than EI_App
+BFFM2 of "8RR046": (HC) issue #6: some EIs equal to 0
+BFFM2 of "8RR046": (HC) issue #2: intersection at EI higher than EI_App
+BFFM2 of "9RR047": (HC) issue #6: some EIs equal to 0
+BFFM2 of "18RR081": (CO) issue #3: EI_App > EI_Idle
+BFFM2 of "18RR082": (HC) issue #6: some EIs equal to 0
+BFFM2 of "18RR082": (CO) issue #3: EI_App > EI_Idle
+BFFM2 of "18RR083": (CO) issue #3: EI_App > EI_Idle
+BFFM2 of "18RR084": (CO) issue #3: EI_App > EI_Idle
+BFFM2 of "11RR049": (HC) issue #6: some EIs equal to 0
+BFFM2 of "11RR049": (HC) issue #2: intersection at EI higher than EI_App
+BFFM2 of "11RR050": (HC) issue #6: some EIs equal to 0
+BFFM2 of "11RR051": (HC) issue #6: some EIs equal to 0
+BFFM2 of "11RR052": (HC) issue #6: some EIs equal to 0
+BFFM2 of "11RR052": (HC) issue #2: intersection at EI higher than EI_App
+BFFM2 of "11RR053": (HC) issue #6: some EIs equal to 0
+BFFM2 of "11RR053": (HC) issue #2: intersection at EI higher than EI_App
+BFFM2 of "11RR054": (HC) issue #6: some EIs equal to 0
+BFFM2 of "11RR054": (HC) issue #2: intersection at EI higher than EI_App
+BFFM2 of "12RR055": (HC) issue #6: some EIs equal to 0
+BFFM2 of "12RR055": (HC) issue #2: intersection at EI higher than EI_App
+BFFM2 of "12RR056": (HC) issue #6: some EIs equal to 0
+BFFM2 of "12RR057": (HC) issue #6: some EIs equal to 0
+BFFM2 of "12RR058": (HC) issue #6: some EIs equal to 0
+BFFM2 of "12RR059": (HC) issue #6: some EIs equal to 0
+BFFM2 of "12RR059": (HC) issue #2: intersection at EI higher than EI_App
+BFFM2 of "12RR060": (HC) issue #6: some EIs equal to 0
+BFFM2 of "12RR060": (HC) issue #2: intersection at EI higher than EI_App
+BFFM2 of "12RR061": (HC) issue #6: some EIs equal to 0
+BFFM2 of "12RR062": (HC) issue #6: some EIs equal to 0
+BFFM2 of "12RR063": (HC) issue #6: some EIs equal to 0
+BFFM2 of "12RR064": (HC) issue #6: some EIs equal to 0
+BFFM2 of "12RR065": (HC) issue #6: some EIs equal to 0
+BFFM2 of "12RR065": (HC) issue #2: intersection at EI higher than EI_App
+BFFM2 of "12RR066": (HC) issue #6: some EIs equal to 0
+BFFM2 of "12RR067": (HC) issue #6: some EIs equal to 0
+BFFM2 of "12RR067": (HC) issue #2: intersection at EI higher than EI_App
+BFFM2 of "12RR068": (HC) issue #6: some EIs equal to 0
+BFFM2 of "12RR068": (HC) issue #2: intersection at EI higher than EI_App
+BFFM2 of "12RR069": (HC) issue #6: some EIs equal to 0
+BFFM2 of "19RR085": (HC) issue #7: all EIs missing
+BFFM2 of "19RR086": (HC) issue #7: all EIs missing
+BFFM2 of "19RR087": (HC) issue #7: all EIs missing
+BFFM2 of "19RR088": (HC) issue #7: all EIs missing
+BFFM2 of "19RR089": (HC) issue #7: all EIs missing
+BFFM2 of "19RR090": (HC) issue #7: all EIs missing
+BFFM2 of "19RR091": (HC) issue #7: all EIs missing
+BFFM2 of "19RR092": (HC) issue #7: all EIs missing
+BFFM2 of "19RR093": (HC) issue #7: all EIs missing
+BFFM2 of "19RR094": (HC) issue #7: all EIs missing
+BFFM2 of "19RR095": (HC) issue #7: all EIs missing
+BFFM2 of "19RR096": (HC) issue #7: all EIs missing
+BFFM2 of "19RR097": (HC) issue #7: all EIs missing
+BFFM2 of "19RR098": (HC) issue #7: all EIs missing
+BFFM2 of "19RR099": (HC) issue #7: all EIs missing
+BFFM2 of "14RR072": (HC) issue #6: some EIs equal to 0
+BFFM2 of "14RR072": (HC) issue #2: intersection at EI higher than EI_App
+BFFM2 of "14RR073": (HC) issue #6: some EIs equal to 0
+BFFM2 of "14RR074": (HC) issue #6: some EIs equal to 0
+BFFM2 of "14RR075": (HC) issue #6: some EIs equal to 0
+BFFM2 of "14RR075": (HC) issue #2: intersection at EI higher than EI_App
+BFFM2 of "18RR076": (HC) issue #6: some EIs equal to 0
+BFFM2 of "18RR076": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "18RR077": (HC) issue #6: some EIs equal to 0
+BFFM2 of "18RR077": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "18RR078": (HC) issue #6: some EIs equal to 0
+BFFM2 of "18RR078": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "18RR079": (HC) issue #6: some EIs equal to 0
+BFFM2 of "18RR079": (HC) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "18RR080": (CO) issue #2: intersection at EI higher than EI_App
+BFFM2 of "18RR080": (HC) issue #6: some EIs equal to 0
+BFFM2 of "21RR100": (HC) issue #6: some EIs equal to 0
+BFFM2 of "21RR100": (HC) issue #2: intersection at EI higher than EI_App
+BFFM2 of "1TL002": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "1TL003": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "1TL004": (CO) issue #1: intersection at Wff higher than Wff_CO
+BFFM2 of "1ZM001": (HC) issue #6: some EIs equal to 0
+BFFM2 of "13ZM002": (HC) issue #6: some EIs equal to 0

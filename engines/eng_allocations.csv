@@ -1,0 +1,421 @@
+﻿typecode,uid,apu_adoption,apu,apu_acrp,apu_icao_adv,apu_icao_simple
+A10,_TF34-GE-100-100A,0.0,none,none,none,none
+A124,3GE078,1.0,unknown/unavailable,jumbo,large_old,longhaul
+A140,_PW126A,1.0,unknown/unavailable,turboprop,regional,shorthaul
+A148,13ZM003,1.0,unknown/unavailable,regionaljet,regional,shorthaul
+A158,13ZM003,1.0,unknown/unavailable,regionaljet,regional,shorthaul
+A178,13ZM004,1.0,avg_Narrowbody,narrowbody,small_new,shorthaul
+A19N,01P22PW160,1.0,GTCP131-9N,narrowbody,small_new,shorthaul
+A20N,01P20CM128,1.0,GTCP131-9N,narrowbody,small_new,shorthaul
+A210,_Rotax 912S,0.0,none,none,none,none
+A21N,01P20CM132,1.0,GTCP131-9N,narrowbody,small_new,shorthaul
+A225,3GE078,1.0,unknown/unavailable,jumbo,large_old,longhaul
+A306,1PW048,1.0,GTCP331-250H,widebody,medium,shorthaul
+A30B,3GE074,1.0,TSCP700-4E,widebody,medium,shorthaul
+A310,2GE037,1.0,GTCP331-250H,widebody,medium,shorthaul
+A318,01P08CM109,1.0,GTCP131-9A,narrowbody,small_old,shorthaul
+A319,01P08CM106,1.0,GTCP131-9A,narrowbody,small_old,shorthaul
+A320,01P08CM105,1.0,GTCP131-9A,narrowbody,small_old,shorthaul
+A321,01P08CM104,1.0,GTCP131-9A,narrowbody,small_old,shorthaul
+A332,01P14RR102,1.0,GTCP331-350C,widebody,medium,longhaul
+A333,5PW075,1.0,GTCP331-350C,widebody,medium,longhaul
+A337,01P14RR102,1.0,GTCP331-350C,widebody,medium,longhaul
+A338,01P19RR119,1.0,GTCP331-350C,widebody,medium,longhaul
+A339,01P19RR119,1.0,GTCP331-350C,widebody,medium,longhaul
+A342,1CM010,1.0,GTCP331-350C,jumbo,large_old,longhaul
+A343,2CM015,1.0,GTCP331-350C,jumbo,large_old,longhaul
+A345,8RR044,1.0,GTCP331-600,jumbo,large_old,longhaul
+A346,8RR045,1.0,GTCP331-600,jumbo,large_old,longhaul
+A358,01P18RR121,1.0,HGT1700,widebody,large_new,longhaul
+A359,01P18RR124,1.0,HGT1700,widebody,large_new,longhaul
+A35K,01P21RR124,1.0,HGT1700,widebody,large_new,longhaul
+A388,01P18RR105,1.0,PW980A,jumbo,large_new,longhaul
+A3ST,1GE020,1.0,GTCP331-350C,widebody,medium,shorthaul
+A50,1AA002,1.0,avg_Jumbo,widebody,medium,longhaul
+A743,13ZM002,1.0,unknown/unavailable,regionaljet,regional,shorthaul
+AAT3,_Rotax 912S,0.0,none,none,none,none
+AC50,_IO-540-T4A5D,0.0,none,none,none,none
+AJ27,01P11GE202,1.0,APS2300,regionaljet,regional,shorthaul
+AJET,1PW038,0.0,none,none,none,none
+AN12,_T56-A-15,1.0,unknown/unavailable,turboprop,regional,shorthaul
+AN2,_R-1820,0.0,none,none,none,none
+AN22,19RR098,1.0,unknown/unavailable,widebody,medium,shorthaul
+AN24,_T64-GE-6B,1.0,unknown/unavailable,turboprop,regional,shorthaul
+AN28,_PT6A-50,1.0,unknown/unavailable,turboprop,regional,shorthaul
+AN30,_T64-GE-6B,1.0,unknown/unavailable,turboprop,regional,shorthaul
+AN32,_T56-A-15,1.0,unknown/unavailable,turboprop,regional,shorthaul
+AN38,_TPE331-14,1.0,unknown/unavailable,turboprop,regional,shorthaul
+AN70,1RR003,1.0,unknown/unavailable,turboprop,small_old,shorthaul
+AN72,1ZM001,1.0,unknown/unavailable,widebody,regional,shorthaul
+AP32,_Rotax 912S,0.0,none,none,none,none
+ASTO,_Rotax 912S,0.0,none,none,none,none
+ASTR,1AS002,0.0,unknown/unavailable,business,business,business
+AT43,_PW120A,1.0,unknown/unavailable,turboprop,regional,shorthaul
+AT45,_PW127E,1.0,unknown/unavailable,turboprop,regional,shorthaul
+AT72,_PW121,1.0,unknown/unavailable,turboprop,regional,shorthaul
+AT73,_PW127E,1.0,unknown/unavailable,turboprop,regional,shorthaul
+AT75,_PW127E,1.0,unknown/unavailable,turboprop,regional,shorthaul
+AT76,_PW127-C/F/J,1.0,unknown/unavailable,turboprop,regional,shorthaul
+AT8T,_PT6A-67D,0.0,none,none,none,none
+ATP,_PW127-A,1.0,unknown/unavailable,turboprop,regional,shorthaul
+B190,_PT6A-65R,0.0,none,none,none,none
+B24,_R-1820,0.0,none,none,none,none
+B350,_PT6A-60/-60A/-60AG,0.0,none,none,none,none
+B37M,01P20CM135,1.0,GTCP131-9N,narrowbody,small_new,shorthaul
+B38M,01P20CM136,1.0,GTCP131-9N,narrowbody,small_new,shorthaul
+B39M,01P20CM140,1.0,GTCP131-9N,narrowbody,small_new,shorthaul
+B462,1TL003,1.0,unknown/unavailable,regionaljet,regional,shorthaul
+B463,1TL003,1.0,unknown/unavailable,regionaljet,regional,shorthaul
+B58T,_TSIO-520-WB,0.0,none,none,none,none
+B703,1PW001,0.0,none,none,none,none
+B712,4BR002,1.0,APS2000,narrowbody,small_old,shorthaul
+B720,1PW001,0.0,none,none,none,none
+B721,1PW005,1.0,GTCP85-98CK,narrowbody,small_old,shorthaul
+B722,1PW010,1.0,GTCP85-98CK,narrowbody,small_old,shorthaul
+B732,1CM005,1.0,GTCP85-129,narrowbody,small_old,shorthaul
+B733,1CM004,1.0,GTCP85-129,narrowbody,small_old,shorthaul
+B734,1CM005,1.0,GTCP85-129,narrowbody,small_old,shorthaul
+B735,1CM004,1.0,GTCP85-129,narrowbody,small_old,shorthaul
+B736,01P11CM111,1.0,GTCP131-9B,narrowbody,small_old,shorthaul
+B737,01P11CM114,1.0,GTCP131-9B,narrowbody,small_old,shorthaul
+B738,01P11CM116,1.0,GTCP131-9B,narrowbody,small_old,shorthaul
+B739,01P11CM116,1.0,GTCP131-9B,narrowbody,small_old,shorthaul
+B741,1PW023,1.0,GTCP660-4,jumbo,large_old,longhaul
+B742,3GE077,1.0,GTCP660-4,jumbo,large_old,longhaul
+B743,1PW029,1.0,GTCP660-4,jumbo,large_old,longhaul
+B744,1GE024,1.0,PW901A,jumbo,large_old,longhaul
+B748,01P17GE215,1.0,PW901C,jumbo,large_new,longhaul
+B74R,3GE068,1.0,GTCP660-4,jumbo,large_old,longhaul
+B74S,1PW023,1.0,GTCP660-4,jumbo,large_old,longhaul
+B752,4PW072,1.0,GTCP331-200,narrowbody,medium,shorthaul
+B753,5RR039,1.0,GTCP331-200,narrowbody,medium,shorthaul
+B762,1GE013,1.0,GTCP331-200,widebody,medium,longhaul
+B763,1PW043,1.0,GTCP331-200,widebody,medium,longhaul
+B764,01P02GE188,1.0,GTCP331-200,widebody,medium,longhaul
+B772,6GE090,1.0,GTCP331-500B,widebody,large_old,longhaul
+B773,2RR027,1.0,GTCP331-500B,widebody,large_old,longhaul
+B778,01P21GE216,1.0,GTCP331-500B,widebody,large_old,longhaul
+B779,01P21GE216,1.0,GTCP331-500B,widebody,large_old,longhaul
+B77L,01P21GE216,1.0,GTCP331-500B,widebody,large_old,longhaul
+B77W,01P21GE217,1.0,GTCP331-500B,widebody,large_old,longhaul
+B788,01P19RR110,1.0,APS5000,widebody,medium,longhaul
+B789,01P17GE211,1.0,APS5000,widebody,medium,longhaul
+B78X,01P17GE214,1.0,APS5000,widebody,medium,longhaul
+BA11,1RR017,1.0,unknown/unavailable,narrowbody,small_old,shorthaul
+BCS1,01P20PW185,1.0,GTCP131-9N,regionaljet,regional,shorthaul
+BCS3,01P20PW182,1.0,GTCP131-9N,regionaljet,regional,shorthaul
+BE20,_PT6A-60/-60A/-60AG,0.0,none,none,none,none
+BE30,_PT6A-60/-60A/-60AG,0.0,none,none,none,none
+BE35,_O-540-J3C5D,0.0,none,none,none,none
+BE36,_IO-550-B,0.0,none,none,none,none
+BE40,1PW038,0.0,unknown/unavailable,business,business,business
+BE4W,1PW038,0.0,unknown/unavailable,business,business,business
+BE58,_IO-550-B,0.0,none,none,none,none
+BE65,_TIO-540-J2B2,0.0,none,none,none,none
+BE76,_O-360-A3A,0.0,none,none,none,none
+BE99,_PT6A-20,0.0,none,none,none,none
+BE9L,_PT6A-34,0.0,none,none,none,none
+BER2,13ZM003,1.0,unknown/unavailable,regionaljet,regional,shorthaul
+BLCF,12PW102,1.0,PW901A,jumbo,large_old,longhaul
+BN2P,_IO-540-T4A5D,0.0,none,none,none,none
+BRAV,_Rotax 912S,0.0,none,none,none,none
+BREZ,_Rotax 912S,0.0,none,none,none,none
+BX2,_O-200,0.0,none,none,none,none
+C130,_T56-A-16,1.0,unknown/unavailable,turboprop,regional,shorthaul
+C133,_TF34-GE-400,0.0,none,none,none,none
+C15,1KK001,1.0,unknown/unavailable,widebody,medium,shorthaul
+C152,_O-200,0.0,none,none,none,none
+C160,_501D22A,1.0,unknown/unavailable,turboprop,small_old,shorthaul
+C162,_O-200,0.0,none,none,none,none
+C170,_O-320-E2A,0.0,none,none,none,none
+C172,_IO-360-A1B6,0.0,none,none,none,none
+C182,_IO-540-T4A5D,0.0,none,none,none,none
+C188,_O-540-J3C5D,0.0,none,none,none,none
+C206,_IO-540-T4A5D,0.0,none,none,none,none
+C208,_PT6A-27,0.0,none,none,none,none
+C210,_TSIO-520-WB,0.0,none,none,none,none
+C25A,1PW035,0.0,unknown/unavailable,business,business,business
+C25B,1PW035,0.0,unknown/unavailable,business,business,business
+C25C,1PW035,0.0,unknown/unavailable,business,business,business
+C27J,_501D22A,1.0,unknown/unavailable,turboprop,regional,shorthaul
+C30J,1RR003,1.0,unknown/unavailable,turboprop,regional,shorthaul
+C310,_TSIO-520-WB,0.0,none,none,none,none
+C340,_TSIO-520-WB,0.0,none,none,none,none
+C402,_TSIO-520-WB,0.0,none,none,none,none
+C414,_TSIO-520-WB,0.0,none,none,none,none
+C42,_Rotax 912S,0.0,none,none,none,none
+C421,_TSIO-520-WB,0.0,none,none,none,none
+C425,_PT6A-20,0.0,none,none,none,none
+C441,_TPE331-8,0.0,none,none,none,none
+C46,_R-1820,0.0,none,none,none,none
+C5,8RR044,1.0,unknown/unavailable,jumbo,large_old,longhaul
+C510,_PW530,0.0,unknown/unavailable,business,business,business
+C525,1PW035,0.0,unknown/unavailable,business,business,business
+C550,1PW036,0.0,unknown/unavailable,business,business,business
+C551,1PW036,0.0,unknown/unavailable,business,business,business
+C55B,_PW530,0.0,unknown/unavailable,business,business,business
+C560,_PW530,0.0,unknown/unavailable,business,business,business
+C56X,_PW530,0.0,unknown/unavailable,business,business,business
+C5M,8RR044,1.0,unknown/unavailable,jumbo,large_old,longhaul
+C650,1AS002,0.0,unknown/unavailable,business,business,business
+C680,7PW077,0.0,unknown/unavailable,business,business,business
+C700,01P18HN013,0.0,unknown/unavailable,business,business,business
+C750,6AL024,0.0,unknown/unavailable,business,business,business
+C82S,_IO-540-T4A5D,0.0,none,none,none,none
+C919,01P20CM128,1.0,unknown/unavailable,narrowbody,small_new,shorthaul
+C97,1RR003,0.0,none,none,none,none
+CAT,_R-1820,0.0,none,none,none,none
+CL2P,_R-1820,1.0,none,none,none,none
+CL30,01P14HN011,0.0,unknown/unavailable,business,business,business
+CL60,5GE084,0.0,unknown/unavailable,business,business,business
+CNBR,7PW077,0.0,none,none,none,none
+CRJ1,1GE035,1.0,GTCP36-150RJ,regionaljet,regional,shorthaul
+CRJ2,01P05GE189,1.0,GTCP36-150RJ,regionaljet,regional,shorthaul
+CRJ7,01P08GE190,1.0,RE220(GX),regionaljet,regional,shorthaul
+CRJ9,01P08GE190,1.0,RE220(GX),regionaljet,regional,shorthaul
+CRJX,01P08GE191,1.0,RE220(GX),regionaljet,regional,shorthaul
+CVLP,_R-1820,0.0,none,none,none,none
+D228,_TPE331-3,0.0,none,none,none,none
+D250,_O-360-A3A,0.0,none,none,none,none
+D328,_PW119-B,1.0,unknown/unavailable,turboprop,regional,shorthaul
+DA40,_TAE-125-01,0.0,none,none,none,none
+DA42,_TAE-125-01,0.0,none,none,none,none
+DA62,_TAE-125-01,0.0,none,none,none,none
+DC10,3GE074,1.0,TSCP700-4E,widebody,medium,longhaul
+DC3,_R-1820,0.0,none,none,none,none
+DC3T,_PT6A-67D,0.0,none,none,none,none
+DC6,_R-1820,0.0,none,none,none,none
+DC7,1RR003,0.0,none,none,none,none
+DC87,1CM003,1.0,unknown/unavailable,narrowbody,medium,longhaul
+DC91,1PW005,1.0,GTCP85-98DHF,narrowbody,small_old,shorthaul
+DC92,1PW008,1.0,GTCP85-98DHF,narrowbody,small_old,shorthaul
+DC93,1PW007,1.0,GTCP85-98DHF,narrowbody,small_old,shorthaul
+DC94,1PW010,1.0,GTCP85-98DHF,narrowbody,small_old,shorthaul
+DC95,1PW013,1.0,GTCP85-98DHF,narrowbody,small_old,shorthaul
+DH8A,_PW120A,1.0,unknown/unavailable,turboprop,regional,shorthaul
+DH8B,_PW127E,1.0,unknown/unavailable,turboprop,regional,shorthaul
+DH8C,_PW127E,1.0,unknown/unavailable,turboprop,regional,shorthaul
+DH8D,_501D22A,1.0,unknown/unavailable,turboprop,regional,shorthaul
+DHC2,_R-1820,0.0,none,none,none,none
+DHC7,_PT6A-50,1.0,unknown/unavailable,turboprop,regional,shorthaul
+DIMO,_Rotax 912S,0.0,none,none,none,none
+DR30,_O-320-E2A,0.0,none,none,none,none
+E120,_PW118,1.0,unknown/unavailable,turboprop,regional,shorthaul
+E135,01P06AL034,1.0,unknown/unavailable,regionaljet,regional,shorthaul
+E145,01P06AL032,1.0,unknown/unavailable,regionaljet,regional,shorthaul
+E170,01P08GE198,1.0,APS2300,regionaljet,regional,shorthaul
+E190,8GE115,1.0,APS2300,regionaljet,regional,shorthaul
+E195,11GE147,1.0,APS2300,regionaljet,regional,shorthaul
+E275,6GE095,1.0,APS2300,regionaljet,regional,shorthaul
+E290,01P20PW187,1.0,APS2300,regionaljet,regional,shorthaul
+E295,01P20PW191,1.0,APS2300,regionaljet,regional,shorthaul
+E300,_IO-540-T4A5D,0.0,none,none,none,none
+E35L,01P06AL034,1.0,unknown/unavailable,regionaljet,regional,shorthaul
+E45X,01P06AL032,1.0,unknown/unavailable,regionaljet,regional,shorthaul
+E500,_PT6A-20,0.0,none,none,none,none
+E50P,_PW530,0.0,unknown/unavailable,business,business,business
+E545,01P14HN015,0.0,GTCP36-150,business,business,business
+E550,01P14HN016,0.0,GTCP36-150,business,business,business
+E55P,_PW530,0.0,unknown/unavailable,business,business,business
+E75L,01P08GE198,1.0,APS2300,regionaljet,regional,shorthaul
+E75S,01P08GE198,1.0,APS2300,regionaljet,regional,shorthaul
+EA50,_PW530,0.0,unknown/unavailable,business,business,business
+ECHO,_Rotax 912S,0.0,none,none,none,none
+EFOX,_Rotax 912S,0.0,none,none,none,none
+ERCO,_Rotax 912,0.0,none,none,none,none
+EUPA,_Rotax 912S,0.0,none,none,none,none
+EV97,_Rotax 912S,0.0,none,none,none,none
+F100,1RR021,1.0,GTCP36-150RJ,regionaljet,regional,shorthaul
+F15,_F100-PW-220,0.0,none,none,none,none
+F16,_F110-GE-129,0.0,none,none,none,none
+F27,_RDa7,1.0,unknown/unavailable,turboprop,regional,shorthaul
+F28,1RR017,1.0,unknown/unavailable,regionaljet,regional,shorthaul
+F2TH,14PW103,0.0,unknown/unavailable,business,business,business
+F406,_PT6A-20,0.0,none,none,none,none
+F50,_PW125-B,1.0,unknown/unavailable,turboprop,regional,shorthaul
+F70,1RR020,1.0,GTCP36-150RJ,regionaljet,regional,shorthaul
+F86,_J65-W-5F,0.0,none,none,none,none
+F900,7PW077,0.0,unknown/unavailable,business,business,business
+FA10,1AS001,0.0,unknown/unavailable,business,business,business
+FA20,_CF700-2D,0.0,unknown/unavailable,business,business,business
+FA50,1AS002,0.0,unknown/unavailable,business,business,business
+FA5X,1AS002,0.0,unknown/unavailable,business,business,business
+FA62,_O-360-A3A,0.0,none,none,none,none
+FA7X,16PW114,0.0,unknown/unavailable,business,business,business
+FA8X,15PW109,0.0,unknown/unavailable,business,business,business
+FAET,_Rotax 912S,0.0,none,none,none,none
+FDCT,_Rotax 912S,0.0,none,none,none,none
+FGTL,_F101-GE-102,0.0,none,none,none,none
+FK14,_Rotax 912S,0.0,none,none,none,none
+FLCO,_Rotax 912,0.0,none,none,none,none
+FOUG,_J69-25A,0.0,none,none,none,none
+G150,1AS002,0.0,unknown/unavailable,business,business,business
+G200,7PW077,0.0,unknown/unavailable,business,business,business
+G250,7PW077,0.0,unknown/unavailable,business,business,business
+G280,01P11HN012,0.0,unknown/unavailable,business,business,business
+G2GL,_CJ610-6,0.0,none,none,none,none
+G44,_O-360-A3A,0.0,none,none,none,none
+GA5C,6BR010,0.0,unknown/unavailable,business,business,business
+GA6C,4BR009,0.0,unknown/unavailable,business,business,business
+GALX,7PW077,0.0,unknown/unavailable,business,business,business
+GL5T,4BR009,0.0,unknown/unavailable,business,business,business
+GL7T,4BR009,0.0,unknown/unavailable,business,business,business
+GLEX,4BR009,0.0,unknown/unavailable,business,business,business
+GLF2,1RR016,0.0,unknown/unavailable,business,business,business
+GLF3,1RR015,0.0,unknown/unavailable,business,business,business
+GLF4,6RR042,0.0,unknown/unavailable,business,business,business
+GLF5,6BR010,0.0,unknown/unavailable,business,business,business
+GLF6,11BR011,0.0,unknown/unavailable,business,business,business
+GNAT,_J85-GE-5H,0.0,none,none,none,none
+GOLF,_Rotax 912S,0.0,none,none,none,none
+GSPN,1PW036,0.0,unknown/unavailable,business,business,business
+GX,_Rotax 912S,0.0,none,none,none,none
+GY80,_O-360-A3A,0.0,none,none,none,none
+H25A,_CJ610-6,0.0,unknown/unavailable,business,business,business
+H25B,1AS002,0.0,unknown/unavailable,business,business,business
+H25C,1AS002,0.0,unknown/unavailable,business,business,business
+HA4T,01P07PW145,0.0,unknown/unavailable,business,business,business
+HAWK,7PW077,0.0,none,none,none,none
+HDJT,1PW035,0.0,none,none,none,none
+HUNT,_J57-P-10,0.0,none,none,none,none
+HUSK,_O-360-A3A,0.0,none,none,none,none
+IL38,1RR003,1.0,unknown/unavailable,turboprop,small_old,shorthaul
+IL62,1AA003,1.0,unknown/unavailable,narrowbody,small_old,longhaul
+IL76,1AA002,1.0,unknown/unavailable,jumbo,medium,longhaul
+IL86,1KK003,1.0,unknown/unavailable,widebody,medium,shorthaul
+IL96,13AA008,1.0,unknown/unavailable,jumbo,large_old,longhaul
+J328,7PW078,1.0,unknown/unavailable,regionaljet,regional,shorthaul
+JAB4,_Rotax 912S,0.0,none,none,none,none
+JPRO,_J85-GE-2,0.0,none,none,none,none
+JS32,_TPE331-10,0.0,none,none,none,none
+JS41,_TPE331-14,0.0,none,none,none,none
+KC39,3CM025,1.0,unknown/unavailable,narrowbody,small_new,shorthaul
+KODI,_PT6A-34,0.0,none,none,none,none
+KP2,_Rotax 582 DCDI,0.0,none,none,none,none
+L101,1RR003,1.0,unknown/unavailable,widebody,medium,longhaul
+L188,_501D22A,0.0,none,none,none,none
+L29A,5GE084,0.0,unknown/unavailable,business,business,business
+L29B,5GE084,0.0,unknown/unavailable,business,business,business
+L39,_TFE731-2/2A,0.0,none,none,none,none
+L410,_TPE331-2,0.0,none,none,none,none
+LJ24,_CJ610-6,1.0,unknown/unavailable,business,business,business
+LJ25,_CJ610-6,0.0,unknown/unavailable,business,business,business
+LJ28,_CJ610-6,1.0,unknown/unavailable,business,business,business
+LJ31,1AS001,0.0,unknown/unavailable,business,business,business
+LJ35,1AS001,0.0,unknown/unavailable,business,business,business
+LJ40,1AS001,0.0,unknown/unavailable,business,business,business
+LJ45,1AS001,0.0,unknown/unavailable,business,business,business
+LJ60,7PW077,0.0,unknown/unavailable,business,business,business
+M20P,_IO-550-B,0.0,none,none,none,none
+M20T,_TSIO-520-WB,0.0,none,none,none,none
+M28,_PT6A-50,0.0,none,none,none,none
+MA60,_PW127-C/F/J,1.0,unknown/unavailable,turboprop,regional,shorthaul
+MAGC,_Rotax 912S,0.0,none,none,none,none
+MC23,01P20CM128,1.0,unknown/unavailable,narrowbody,small_new,shorthaul
+MCR1,_Rotax 912S,0.0,none,none,none,none
+MCR4,_Rotax 912S,0.0,none,none,none,none
+MD11,2GE049,1.0,TSCP700-4E,widebody,large_old,longhaul
+MD81,4PW070,1.0,GTCP85-98DHF,narrowbody,small_old,shorthaul
+MD82,4PW070,1.0,GTCP85-98DHF,narrowbody,small_old,shorthaul
+MD83,4PW071,1.0,GTCP85-98DHF,narrowbody,small_old,shorthaul
+MD87,4PW070,1.0,GTCP85-98DHF,narrowbody,small_old,shorthaul
+MD88,4PW071,1.0,GTCP85-98DHF,narrowbody,small_old,shorthaul
+MD90,1IA002,1.0,GTCP131-9B,narrowbody,small_old,shorthaul
+MRJ7,13ZM003,1.0,unknown/unavailable,regionaljet,regional,shorthaul
+MRJ9,13ZM003,1.0,unknown/unavailable,regionaljet,regional,shorthaul
+MS76,_J69-25A,0.0,none,none,none,none
+MU2,_TPE331-3,0.0,none,none,none,none
+MU30,1PW038,0.0,unknown/unavailable,business,business,business
+NG5,_Rotax 912S,0.0,none,none,none,none
+P06T,_Rotax 912S,0.0,none,none,none,none
+P1,20CM101,1.0,unknown/unavailable,narrowbody,small_new,shorthaul
+P180,_PT6A-67B,0.0,none,none,none,none
+P1HH,_PT6A-67B,1.0,unknown/unavailable,turboprop,regional,shorthaul
+P208,_Rotax 912S,0.0,none,none,none,none
+P28A,_O-320-E2A,0.0,none,none,none,none
+P28R,_IO-360-A1B6,0.0,none,none,none,none
+P28T,_IO-360-A1B6,0.0,none,none,none,none
+P28U,_TSIO-360C,0.0,none,none,none,none
+P46T,_PT6A-60/-60A/-60AG,0.0,none,none,none,none
+P68,_IO-360-A1B6,0.0,none,none,none,none
+P750,_PT6A-34,0.0,none,none,none,none
+P82,_R-1820,0.0,none,none,none,none
+PA27,_O-320-E2A,0.0,none,none,none,none
+PA31,_TIO-540-J2B2,0.0,none,none,none,none
+PA34,_TSIO-360C,0.0,none,none,none,none
+PA38,_O-200,0.0,none,none,none,none
+PA44,_O-360-A3A,0.0,none,none,none,none
+PA46,_TIO-540-J2B2,0.0,none,none,none,none
+PAY1,_PT6A-27,0.0,none,none,none,none
+PAY2,_PT6A-27,0.0,none,none,none,none
+PAY3,_PT6A-60/-60A/-60AG,0.0,none,none,none,none
+PC12,_PT6A-67B,0.0,none,none,none,none
+PC6T,_PT6A-27,0.0,none,none,none,none
+PRIM,_Rotax 912S,0.0,none,none,none,none
+PRM1,1PW035,0.0,unknown/unavailable,business,business,business
+Q2,_Rotax 582 DCDI,0.0,none,none,none,none
+Q4,01P10AL033,0.0,none,none,none,none
+Q9,_TPE331-10,0.0,none,none,none,none
+R200,_O-320-E2A,0.0,none,none,none,none
+R721,4PW071,1.0,GTCP85-98CK,narrowbody,small_old,shorthaul
+RF6,_IO-540-T4A5D,0.0,none,none,none,none
+RJ1H,1TL004,1.0,unknown/unavailable,regionaljet,regional,shorthaul
+RJ70,1TL004,1.0,unknown/unavailable,regionaljet,regional,shorthaul
+RJ85,1TL004,1.0,unknown/unavailable,regionaljet,regional,shorthaul
+RV12,_Rotax 912S,0.0,none,none,none,none
+RV7,_IO-360-A1B6,0.0,none,none,none,none
+RV8,_IO-360-A1B6,0.0,none,none,none,none
+S22T,_TSIO-520-WB,0.0,none,none,none,none
+S2P,_R-1820,0.0,none,none,none,none
+S3,_TF34-GE-400,0.0,none,none,none,none
+SATA,_J69-25A,0.0,none,none,none,none
+SB20,_501D22A,1.0,unknown/unavailable,turboprop,regional,shorthaul
+SBR1,_J85-GE-2,0.0,unknown/unavailable,business,business,business
+SF25,_Rotax 912S,0.0,none,none,none,none
+SF34,_CT7-5,1.0,unknown/unavailable,turboprop,regional,shorthaul
+SF50,1PW035,0.0,unknown/unavailable,business,business,business
+SGUP,_501D22A,0.0,none,none,none,none
+SH36,_PT6A-67D,1.0,unknown/unavailable,turboprop,regional,shorthaul
+SHRK,_Rotax 912S,0.0,none,none,none,none
+SIRA,_Rotax 912S,0.0,none,none,none,none
+SKAR,_Rotax 912,0.0,none,none,none,none
+SKRA,_Rotax 912,0.0,none,none,none,none
+SLG2,_Rotax 912S,0.0,none,none,none,none
+SLG4,_Rotax 914,0.0,none,none,none,none
+SR20,_IO-360-A1B6,0.0,none,none,none,none
+SR22,_IO-550-B,0.0,none,none,none,none
+SU95,01P11PJ003,1.0,RE220(GX),regionaljet,regional,shorthaul
+SVNH,_Rotax 912S,0.0,none,none,none,none
+SW4,_TPE331-12,0.0,none,none,none,none
+T134,1AA001,1.0,unknown/unavailable,narrowbody,regional,shorthaul
+T154,1KK001,1.0,unknown/unavailable,narrowbody,small_old,shorthaul
+T204,1AA005,1.0,unknown/unavailable,narrowbody,small_old,shorthaul
+T206,_TIO-540-J2B2,0.0,none,none,none,none
+T210,_TSIO-520-WB,0.0,none,none,none,none
+T33,_J85-GE-21,0.0,none,none,none,none
+T34T,_PT6A-20,0.0,none,none,none,none
+TARR,_Rotax 912S,0.0,none,none,none,none
+TB20,_IO-540-T4A5D,0.0,none,none,none,none
+TB21,_TIO-540-J2B2,0.0,none,none,none,none
+TBM7,_PT6A-65R,0.0,none,none,none,none
+TBM8,_PT6A-34,0.0,none,none,none,none
+TBM9,_PT6A-34,0.0,none,none,none,none
+TEX2,_PT6A-50,0.0,none,none,none,none
+TL20,_Rotax 912S,0.0,none,none,none,none
+TL30,_Rotax 912S,0.0,none,none,none,none
+TOUR,_O-320-E2A,0.0,none,none,none,none
+TRIS,_IO-540-T4A5D,0.0,none,none,none,none
+U16,_R-1820,0.0,none,none,none,none
+U2,_F118-GE-100,0.0,none,none,none,none
+UF10,_Rotax 912S,0.0,none,none,none,none
+V10,_T76-G-12A,0.0,none,none,none,none
+VAMP,_CJ610-2C,0.0,none,none,none,none
+VF14,1AS001,1.0,unknown/unavailable,regionaljet,regional,shorthaul
+VL3,_Rotax 912S,0.0,none,none,none,none
+VTOR,_T63-A-5A,0.0,none,none,none,none
+WT9,_Rotax 912S,0.0,none,none,none,none
+WW24,1AS002,0.0,unknown/unavailable,business,business,business
+XL2,_IO-320-D1AD,0.0,none,none,none,none
+YK40,1AS001,1.0,unknown/unavailable,regionaljet,regional,shorthaul
+YK42,1ZM001,1.0,unknown/unavailable,narrowbody,small_old,shorthaul
+ZEPH,_Rotax 912S,0.0,none,none,none,none
