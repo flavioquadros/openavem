@@ -40,9 +40,6 @@ This file describes the options that can be set in a SimConfig object. Each opti
 - *return_splits* : bool
     - If True, return emissions per aircraft type, country of departure, or country of arrival, according to `split_job`. The default is `False`.
 
-- *save_splits* : bool
-    - If True and `save_emissions` is also True, save emissions per aircraft type, country of departure, or country of arrival, according to `split_job`. The default is `True`.
-
 
 ## Output files
 
@@ -60,6 +57,12 @@ This file describes the options that can be set in a SimConfig object. Each opti
 
 - *splitdir* : str
     - Path to directory where the emission splits (emissions per aircraft type or country of origin or destination) will be saved. The default is `r'./output/'`.
+
+- *save_splits* : bool
+    - If True and `save_emissions` is also True, save emissions per aircraft type, country of departure, or country of arrival, according to `split_job`. The default is `True`.
+
+- *merge_saved_splits* : bool
+    - If True and both `save_emissions` and `save_splits` are also True, concatenate emissions splits into a single .nc4 file along a dimension named after `split_job`. The default is `True`.
 
 
 ## Multiprocessing

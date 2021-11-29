@@ -137,6 +137,7 @@ class SimConfig:
         'split_job':                'ac',
         'return_splits':            False,
         'save_splits':              True,
+        'merge_saved_splits':       True,
         'acs_allow':                [],
         'acs_block':                [],
         'apt_cco_allow':            [],

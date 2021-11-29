@@ -3073,12 +3073,33 @@ def run_fcounts(fcounts_path, iata_keys=False, simcfg=None, maxroutes=None,
 
     grid.print_ds_totals(overall_ds)
     if simcfg.save_emissions:
+        print('\nSaving overall emissions...', end='')
+        if simcfg.save_splits and simcfg.merge_saved_splits:
+            print(' Concatenating splits... ', end='')
+            if len(subds) == 0:
+                subds, split_fpaths = grid.load_splits(simcfg)
+            overall_ds = grid.merge_splits(overall_ds, subds, simcfg,
+                                           verbose=True)
         fpath = os.path.join(simcfg.outputdir, simcfg.output_name) + '.nc4'
         grid.save_nc4(overall_ds, fpath)
+        if simcfg.save_splits and simcfg.merge_saved_splits:
+            for fpath in split_fpaths:
+                try:
+                    os.remove(fpath)
+                except PermissionError as err:
+                    msg = 'Failed to delete split emissions. ' + err.__str__()
+                    warnings.warn(msg)
+            try:
+                os.rmdir(simcfg.splitdir)
+            except FileNotFoundError:
+                pass
+        print('done')
     
     if plotfuel:
         print(f'\n{"Plotting fuel burn...":33}', end='')
         da = overall_ds.FUELBURN
+        if simcfg.split_job in da.dims:
+            da = da.sel({simcfg.split_job: '*'})
         da = da.sel(lat=slice(-89, 89))
         if 'lev' in da.dims:
             da = da.sum('lev')

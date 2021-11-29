@@ -7,6 +7,7 @@ Gridding functionalities
 ##
 
 # Import system modules
+import os
 
 # Import additional modules
 import numpy as np
@@ -131,19 +132,22 @@ def print_ds_totals(ds):
 
 
 def save_nc4(ds, fname):
-    if 'lev' in ds.dims:
-        chunksizes = [1, ds.lat.size, ds.lon.size]
-    else:
-        chunksizes = [ds.lat.size, ds.lon.size]
-    
-    encoding = dict(zlib=True, shuffle=True, complevel=1,
-                    chunksizes=chunksizes)
-    enc = {v:encoding for v in list(ds.data_vars.keys())}
-    
     if not fname.lower().endswith('.nc4'):
         fname = fname + '.nc4'
     
-    ds.to_netcdf(fname, encoding=enc)
+    n = len(ds.dims) - 2
+    chunksizes = n * [1] + [ds.lat.size, ds.lon.size]
+    encoding = dict(zlib=True, shuffle=True, complevel=1,
+                    chunksizes=chunksizes)
+    
+    if isinstance(ds, xr.Dataset):
+        enc = {v:encoding for v in list(ds.data_vars.keys())}
+        ds.to_netcdf(fname, encoding=enc)
+    elif isinstance(ds, xr.DataArray):
+        ds.to_netcdf(fname, encoding={ds.name: encoding})
+    else:
+        raise TypeError('ds must be xr.Dataset or xr.DataArray.'
+                        + f'{type(ds)} was given.')
 
 
 def grid_from_simcfg(simcfg):
@@ -803,6 +807,81 @@ def grid_supersampled(segs, ds, multiplier=1,
             ds[gc_spc].values = newemissions[spc]
         else:
             ds[gc_spc].values += newemissions[spc]
+    
+    return ds
+
+
+def load_splits(simcfg):
+    """
+    Load emission splits
+
+    Parameters
+    ----------
+    simcfg : SimConfig
+        Configuration of simulation options.
+
+    Returns
+    -------
+    subds : dict of xr.Dataset
+        Gridded emissions calculated for each fragment ("sub-task") of the job
+        (split by aircraft type or by country of departure).
+    loaded_fpaths : list of str
+        Paths to .nc4 files that were loaded.
+
+    """
+    subds = {}
+    basename_length = len(simcfg.output_name) + 1
+    fnames = os.listdir(simcfg.splitdir)
+    loaded_fpaths = []
+    for f in fnames:
+        if f.startswith(simcfg.output_name + '_') and f.endswith('.nc4'):
+            fpath = os.path.join(simcfg.splitdir, f)
+            loaded_fpaths.append(fpath)
+            sub = f[basename_length:-4]
+            subds[sub] = xr.load_dataset(fpath)
+    
+    return subds, loaded_fpaths
+
+
+def merge_splits(ds, subds, simcfg, verbose=False):
+    """
+    Merge emission splits into a single Dataset across a new dimension
+
+    Parameters
+    ----------
+    ds : xr.Dataset
+        Gridded emissions, summed across all aircraft types and countries.
+    subds : dict of xr.Dataset
+        Gridded emissions calculated for each fragment ("sub-task") of the job
+        (split by aircraft type or by country of departure).
+    simcfg : SimConfig
+        Configuration of simulation options.
+    verbose : bool
+        If True, print splits as they are processed.
+
+    Returns
+    -------
+    ds : xr.Dataset
+        Gridded emissions with new dimension.
+
+    """
+    dim = simcfg.split_job
+    
+    # Add overall emissions
+    ds = ds.expand_dims(dim)
+    ds = ds.assign_coords({dim: (dim, ['*'])})
+    dss = [ds]
+    ds.close()
+    
+    for sub in subds:
+        if verbose:
+            print(sub, end=', ', flush=True)
+        # Add split emissions
+        subds[sub] = subds[sub].expand_dims(dim)
+        subds[sub] = subds[sub].assign_coords({dim: (dim, [sub])})
+        dss.append(subds[sub])
+        subds[sub].close()
+    ds = xr.concat(dss, dim)
     
     return ds
 
