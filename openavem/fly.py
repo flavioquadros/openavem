@@ -19,7 +19,7 @@ import numpy as np
 import pandas as pd
 from scipy import interpolate
 
-# Import modules from the project
+# Import from the project
 from .core import NothingToProcess, ModelDataMissing
 from .core import EmissionSegment, SimConfig, Phase, rng, APU
 from .core import list_if_few
@@ -27,6 +27,7 @@ from . import physics
 from . import bada
 from . import grid
 from . import plot
+from . import dir_openavem
 from .datasources import (load_apts_from_simcfg,
                           load_yearly_movements,
                           load_tim_stettler,
@@ -41,7 +42,7 @@ from .datasources import (load_apts_from_simcfg,
 # Contants
 ##
 
-DIR_FLIGHTLISTS = r'./flightlists/'
+DIR_FLIGHTLISTS = os.path.join(dir_openavem, 'flightlists/')
 
 DEPARTURE = 2
 ARRIVAL   = 1

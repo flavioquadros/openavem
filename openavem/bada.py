@@ -13,16 +13,18 @@ User Manual for the Base of Aircraft Data (BADA) Revision 3.15,
 ##
 
 # Import system modules
+import os
 import warnings
 
 # Import additional modules
 import pandas as pd
 import numpy as np
 
-# Import modules from the project
+# Import from the project
 from . import physics
 from .core import EmissionSegment, Phase
 from openavem.datasources import load_ac_natsgrp, load_cruise_fl
+from . import dir_openavem
 
 ##
 # Constants
@@ -54,7 +56,7 @@ PHASE_BADA_STR = {Phase.CLIMB:          'cl',
 # Parameters and global variables
 ##
 
-bada_dir = r'./BADA/'
+bada_dir = os.path.join(dir_openavem, 'BADA/')
 
 
 ##

@@ -1,3 +1,8 @@
+import os
+
+dir_openavem = os.path.join(__file__, '..', '..')
+dir_openavem = os.path.abspath(dir_openavem)
+
 from .core import NothingToProcess
 from .core import ModelDataMissing
 

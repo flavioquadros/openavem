@@ -7,6 +7,7 @@ Functions to read input data
 ##
 
 # Import system modules
+import os
 import warnings
 
 # Import additional modules
@@ -17,34 +18,47 @@ import xarray as xr
 # Import modules from the project
 from .core import Airport, Engine, APU
 from . import physics
+from . import dir_openavem
 
 
 ###
 # Contants
 ##
 
-FILEPATH_AC_CRUISE_FL = r'./aircraft/cruise_fl.csv'
-FILEPATH_AC_ICAO_DESCRIPTION = r'./aircraft/ac_icao_description.csv'
-FILEPATH_AC_LOADFACTORS = r'./aircraft/load_factors.csv'
-FILEPATH_AC_MILITARY = r'./aircraft/military.csv'
-FILEPATH_AC_NATSGRP = r'./aircraft/natsgrp.csv'
-FILEPATH_AC_REPLACEMENTS = r'./aircraft/typecode_replacements.csv'
-FILEPATH_ICAO_ACTYPES = r'./aircraft/AircraftTypes_31Dec2020.json'
+FILEPATH_AC_CRUISE_FL = os.path.join(
+    dir_openavem, r'aircraft/cruise_fl.csv')
+FILEPATH_AC_ICAO_DESCRIPTION = os.path.join(
+    dir_openavem, r'aircraft/ac_icao_description.csv')
+FILEPATH_AC_LOADFACTORS = os.path.join(
+    dir_openavem, r'aircraft/load_factors.csv')
+FILEPATH_AC_MILITARY = os.path.join(
+    dir_openavem, r'aircraft/military.csv')
+FILEPATH_AC_NATSGRP = os.path.join(
+    dir_openavem, r'aircraft/natsgrp.csv')
+FILEPATH_AC_REPLACEMENTS = os.path.join(
+    dir_openavem, r'aircraft/typecode_replacements.csv')
+FILEPATH_ICAO_ACTYPES = os.path.join(
+    dir_openavem, r'aircraft/AircraftTypes_31Dec2020.json')
 
-FILEPATH_ISO_CC = r'./airports/iso_country_codes.csv'
-FILEPATH_OPENFLIGHTS_APTS = r'./airports/airports.dat'
-FILEPATH_OURAIRPORTS_APTS = (
-    r'./airports/OurAirports/airports.csv'
-)
-FILEPATH_OURAIRPORTS_RUNWAYS = (
-    r'./airports/OurAirports/runways.csv'
-)
-FILEPATH_TIM_STETTLER = r'./airports/tim_stettler.csv'
-FILEPATH_MOVEMENTS = r'./airports/yearly_movements.csv'
+FILEPATH_ISO_CC = os.path.join(
+    dir_openavem, r'airports/iso_country_codes.csv')
+FILEPATH_OPENFLIGHTS_APTS = os.path.join(
+    dir_openavem, r'airports/airports.dat')
+FILEPATH_OURAIRPORTS_APTS = os.path.join(
+    dir_openavem, r'airports/OurAirports/airports.csv')
+FILEPATH_OURAIRPORTS_RUNWAYS = os.path.join(
+    dir_openavem, r'airports/OurAirports/runways.csv')
+FILEPATH_TIM_STETTLER = os.path.join(
+    dir_openavem, r'airports/tim_stettler.csv')
+FILEPATH_MOVEMENTS = os.path.join(
+    dir_openavem, r'airports/yearly_movements.csv')
 
-FILEPATH_ENG_PROPERTIES = r'./engines/eng_properties.csv'
-FILEPATH_ENG_ALLOCATIONS = r'./engines/eng_allocations.csv'
-FILEPATH_APU_PROPERTIES = r'./engines/apu_properties.csv'
+FILEPATH_ENG_PROPERTIES = os.path.join(
+    dir_openavem, r'engines/eng_properties.csv')
+FILEPATH_ENG_ALLOCATIONS = os.path.join(
+    dir_openavem, r'engines/eng_allocations.csv')
+FILEPATH_APU_PROPERTIES = os.path.join(
+    dir_openavem, r'engines/apu_properties.csv')
 
 # Correction factors for EEDB fuel flow to account for installation effects
 # of air bleed
@@ -446,7 +460,8 @@ def load_airports(openflights_path=FILEPATH_OPENFLIGHTS_APTS,
     if source not in ['openflights', 'ourairports', 'all']:
         raise ValueError(f'source "{source}" not recognized')
     
-    iso_cc = pd.read_csv(iso_cc_path, index_col='iso_country',
+    iso_cc = pd.read_csv(iso_cc_path,
+                         index_col='iso_country',
                          usecols=['iso_country', 'country', 'domestic_iso'],
                          keep_default_na=False)
     
