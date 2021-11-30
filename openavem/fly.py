@@ -2011,7 +2011,7 @@ def lat_ineff_feat(segs, d):
     
     # Scale factor
     mult = (LATINEFF_A * d + LATINEFF_B) / d
-    min(mult, MAX_MULT)
+    mult = min(mult, MAX_MULT)
     
     # Apply factors to each segment
     for seg in segs:
