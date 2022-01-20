@@ -95,6 +95,9 @@ def load_all_engines(filepath=FILEPATH_ENG_PROPERTIES):
         Dictionary of loaded engines with unique identifiers (UID) as keys.
 
     """
+    if filepath is None:
+        filepath = FILEPATH_ENG_PROPERTIES
+    
     # Load everything
     engine_data = pd.read_csv(filepath,
                               index_col='uid',
@@ -114,10 +117,14 @@ def load_all_engines(filepath=FILEPATH_ENG_PROPERTIES):
     
 
 def load_eng_allocations(filepath=FILEPATH_ENG_ALLOCATIONS):
+    if filepath is None:
+        filepath = FILEPATH_ENG_ALLOCATIONS
     return pd.read_csv(filepath, index_col='typecode')
     
 
 def load_apus(filepath=FILEPATH_APU_PROPERTIES):
+    if filepath is None:
+        filepath = FILEPATH_APU_PROPERTIES
     apu_data = pd.read_csv(filepath, index_col='name', dtype={'name': str})
     apus = {n: APU(n, apu_data.loc[n].to_dict()) for n in apu_data.index}
     
@@ -172,15 +179,15 @@ def allocate_eng(acs, simcfg, engines={}, apus={}, eng_allocations=None):
     
     # Load engines if not given
     if len(engines) == 0:
-        engines = load_all_engines()
+        engines = load_all_engines(simcfg.eng_properties_path)
     
     # Load APUs if not given
     if len(apus) == 0:
-        apus = load_apus()
+        apus = load_apus(simcfg.apu_properties_path)
     
     # Load allocations if not given
     if eng_allocations is None:
-        eng_allocations = load_eng_allocations()
+        eng_allocations = load_eng_allocations(simcfg.eng_allocations_path)
     
     # Go over allocations
     for typecode, alloc in eng_allocations.iterrows():

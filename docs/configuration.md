@@ -139,8 +139,17 @@ This file describes the options that can be set in a SimConfig object. Each opti
     - If True, load airports marked as "heliport". The default is `False`.
 
 
-## APU
+## Aircraft engines and APUs
 
+- *eng_properties_path* : str or None
+    - Path to CSV file containing engine fuel rates and emission indices. If None, the default path set in `datasources.FILEPATH_ENG_PROPERTIES` is used. The default is `None`.
+
+ - *eng_allocations_path* : str or None
+    - Path to CSV file containing engine and APU allocation for each aircraft type. If None, the default path set in `datasources.FILEPATH_ENG_ALLOCATIONS` is used. The default is `None`.
+
+- *apu_properties_path* : str or None
+    - Path to CSV file containing APU fuel rates and emission indices. If None, the default path set in `datasources.FILEPATH_APU_PROPERTIES` is used. The default is `None`.
+    
 - *apu_tim* : str
     - Time-in-mode used for the APU. Possible values are 'ICAOadv', 'ICAOsimple', 'ATAmid', 'AEDT', 'AEIC', 'none'. The default is `'ICAOadv'`.
     
