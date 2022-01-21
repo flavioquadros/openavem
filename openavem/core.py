@@ -453,9 +453,9 @@ class Engine():
         self.bffm2 = {}
         
         if np.isnan(self.fuel_lto).any():
-            raise Exception('fuel flow value missing')
+            raise Exception(f'fuel flow value missing. UID={self.uid}')
         if (self.fuel_lto <= 0).any():
-            raise Exception('fuel flow <= 0')
+            raise Exception(f'fuel flow <= 0. UID={self.uid}')
         # Correct fuel flow for installation effects
         wf = self.fuel_lto * BFFM2_FUEL_CORRECTION
         logwf = np.log10(wf)
