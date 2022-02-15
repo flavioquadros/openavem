@@ -21,7 +21,7 @@ from scipy import interpolate
 
 # Import from the project
 from .core import NothingToProcess, ModelDataMissing
-from .core import EmissionSegment, SimConfig, Phase, rng, APU
+from .core import EmissionSegment, SimConfig, Phase, rng, APU, Airport
 from .core import list_if_few
 from . import physics
 from . import bada
@@ -2179,7 +2179,8 @@ def fly_list_ongrid(fcounts, airports, thisbada, simcfg, apus, met=None,
 
 def testflight(typecode='B77W', apt_origin='GRU', apt_destination='AMS',
                iata_keys=True, simcfg=None,
-               figname=None, plotfuel=True, cfg_params={}):
+               figname=None, plotfuel=True, cfg_params={},
+               verbose=1):
     """
     Calculate emissions from a single flight
 
@@ -2220,30 +2221,45 @@ def testflight(typecode='B77W', apt_origin='GRU', apt_destination='AMS',
     # Load payload mass fraction from weight load factor if needed
     determine_payload_m_frac(simcfg)
     
-    print(f'{"Loading airport data...":33}', end='', flush=True)
-    apts = load_apts_from_simcfg(simcfg, iata_keys=iata_keys)
-    apt_origin = apts[apt_origin]
-    apt_destination = apts[apt_destination]
+    if verbose >= 1:
+        print(f'{"Loading airport data...":33}', end='', flush=True)
+    if not isinstance(apt_origin, (str, Airport)):
+        raise TypeError('apt_origin must be str or Airport')
+    if not isinstance(apt_destination, (str, Airport)):
+        raise TypeError('apt_destination must be str or Airport')
+    if isinstance(apt_origin, str) or isinstance(apt_destination, str):
+        apts = load_apts_from_simcfg(simcfg, iata_keys=iata_keys)
+    if isinstance(apt_origin, str):
+        apt_origin = apts[apt_origin]
+    if isinstance(apt_destination, str):
+        apt_destination = apts[apt_destination]
     if simcfg.ltocycle == 'Stettler':
         load_yearly_movements([apt_origin, apt_destination])
         load_tim_stettler([apt_origin, apt_destination])
-    print(' done')
+    if verbose >= 1:
+        print(' done')
     
-    print(f'{"Loading BADA...":33}', end='', flush=True)
+    if verbose >= 1:
+        print(f'{"Loading BADA...":33}', end='', flush=True)
     activebada = bada.Bada(load_all_acs=False, acs_to_load=[typecode])
     ac = activebada.acs[typecode]
     if ac.mdl_typecode != typecode:
         activebada.load_ac(ac.mdl_typecode)
     acs = activebada.acs
-    print(' done')
+    if verbose >= 1:
+        print(' done')
     
-    print(f'{"Assigning engines to aircraft...":33}', end='', flush=True)
+    if verbose >= 1:
+        print(f'{"Assigning engines to aircraft...":33}', end='', flush=True)
     engines, apus, _ = allocate_eng(acs, simcfg)
-    print(' done')
+    if verbose >= 1:
+        print(' done')
     
-    print(f'{"Loading meteorological data...":33}', end='', flush=True)
+    if verbose >= 1:
+        print(f'{"Loading meteorological data...":33}', end='', flush=True)
     met = load_met(simcfg)
-    print(' done')
+    if verbose >= 1:
+        print(' done')
     
     # Departure LTO
     dep_emissions = lto(ac, apt_origin, departure=True, simcfg=simcfg,
@@ -2275,12 +2291,14 @@ def testflight(typecode='B77W', apt_origin='GRU', apt_destination='AMS',
         raise ValueError(f'simcfg.grid_method "{simcfg.grid_method}" '
                          + 'not recognized')
     
-    print('\n\t-- Total smissions --')
-    grid.print_ds_totals(ds)
-    print()
+    if verbose >= 1:
+        print('\n\t-- Total emissions --')
+        grid.print_ds_totals(ds)
+        print()
     
     if plotfuel:
-        print(f'{"Plotting fuel burn...":33}', end='')
+        if verbose >= 1:
+            print(f'{"Plotting fuel burn...":33}', end='')
         da = ds.FUELBURN
         da = da.sel(lat=slice(-89, 89))
         if 'lev' in da.coords:
@@ -2293,15 +2311,18 @@ def testflight(typecode='B77W', apt_origin='GRU', apt_destination='AMS',
         plot.plot_colormesh(da, scale='log', vmax=vmax, vmin=vmin,
                             cmap=plot.cc.cm.CET_L17, ax=ax)
         ax.set_global()
-        print(' done')
+        if verbose >= 1:
+            print(' done')
         
         if figname is not None:
-            print(f'Saving plot as "{figname}"...', end='')
+            if verbose >= 1:
+                print(f'Saving plot as "{figname}"...', end='')
             if not os.path.isdir(simcfg.outputdir):
                 os.mkdir(simcfg.outputdir)
             fig.savefig(simcfg.outputdir + figname, dpi=300,
                         bbox_inches='tight')
-            print(' done')
+            if verbose >= 1:
+                print(' done')
     
     return ds, emissions
 
