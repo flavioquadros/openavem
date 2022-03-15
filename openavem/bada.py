@@ -299,7 +299,7 @@ def read_synonym(filepath=None):
     # EQUIVALENT = '*'
     ICAO_TRUE = 'Y'
     
-    with open(filepath, 'r') as f:
+    with open(filepath, 'r', encoding='cp1252') as f:
         lines = f.readlines()
         rows = []
         for line in lines[18:]:
@@ -342,7 +342,7 @@ def read_gpf(filepath=None):
     if filepath is None:
         filepath = bada_dir + 'BADA.GPF'
     gpf = {}
-    with open(filepath, 'r') as f:
+    with open(filepath, 'r', encoding='cp1252') as f:
         for line in f:
             linetype = line[:2]
             if linetype == 'FI':
@@ -375,7 +375,7 @@ def read_opf(filepath):
     
     """
     opf = {}
-    with open(filepath, 'r') as f:
+    with open(filepath, 'r', encoding='cp1252') as f:
         lines = f.readlines()
         
         # Aircraft block
@@ -488,7 +488,7 @@ def read_apf(filepath):
 
     """
     apf = {}
-    with open(filepath, 'r') as f:
+    with open(filepath, 'r', encoding='cp1252') as f:
         lines = f.readlines()
         
         # File Identification Block
@@ -563,7 +563,7 @@ def read_ptf(filepath):
 
     """
     ptf = {}
-    with open(filepath, 'r') as f:
+    with open(filepath, 'r', encoding='cp1252') as f:
         lines = f.readlines()
         
         # Header
@@ -623,7 +623,7 @@ def read_ptd(filepath):
 
     """
     ptd = {}
-    with open(filepath, 'r') as f:
+    with open(filepath, 'r', encoding='cp1252') as f:
         lines = f.readlines()
         
         # Low mass climb

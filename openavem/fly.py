@@ -3100,6 +3100,18 @@ def run_fcounts(fcounts_path, iata_keys=False, simcfg=None, maxroutes=None,
             print(' Concatenating splits... ', end='')
             if len(subds) == 0:
                 subds, split_fpaths = grid.load_splits(simcfg)
+            else:
+                if simcfg.split_job == 'cc_o' or simcfg.split_job == 'cc_d':
+                    split_fpaths = [
+                        os.path.join(simcfg.splitdir,
+                                     (simcfg.output_name + '_' + sub.lower()
+                                      + '.nc4'))
+                        for sub in subds]
+                else:
+                    split_fpaths = [
+                        os.path.join(simcfg.splitdir,
+                                     simcfg.output_name + '_' + sub + '.nc4')
+                        for sub in subds]
             overall_ds = grid.merge_splits(overall_ds, subds, simcfg,
                                            verbose=True)
         fpath = os.path.join(simcfg.outputdir, simcfg.output_name) + '.nc4'
